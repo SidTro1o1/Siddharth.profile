@@ -1,0 +1,121 @@
+
+.profile-picture img {
+    width: 170px;
+    height: 220px;
+    object-fit: cover;
+    float: left;
+    margin: 2px;
+}
+
+.personal-details {
+   font-family: arial ;
+}
+
+.personal-details a:hover {
+   color: red; ;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-button {
+    background-color: green;
+    color: yellow;
+    border: none;
+    padding: 10px 20px;
+    margin: 0px 2px 2px 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.nav-button:hover {
+    color: red;
+}
+
+.abcd {
+   background-color:gray;
+}
+
+th {
+	background-color:lightgray;
+	font-weight:bold;
+}
+
+th, td, tr {
+	border:2px solid Navy;
+	border-radius:4px;
+	padding:1.5px;
+}
+
+tr:hover {
+	background-color:Azure;
+}
+
+.bye {
+	font-weight:bold;
+	align: left;
+	display: flex;
+	margin: 0;
+	padding: 0; 
+}
+
+.hello {
+	align: left;
+	margin: 0px 0px 0px 40px;
+	padding: 0; }
+
+.logo-container {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+.logo {
+    width: 150px;
+    height: 140px;
+    margin: 10px;
+    cursor: pointer;
+    opacity: 0.7;
+    filter: saturate(0.7);	
+}
+
+.logo:focus {
+    outline: 2px solid blue;
+}
+
+.logo:hover {
+    filter: saturate(1.2);
+    filter: contrast(1.6);
+}
+
+textarea {
+width:400px; 
+height:200px;
+}
+
+.nice a:hover {
+     color:red;
+     text-decoration:none;
+}
+
+.nice {
+    position: fixed;
+    font-weight: bold;
+    bottom: 20px;
+    right: 20px;
+    background-color: green;
+    color: yellow;
+    text-decoration:none;
+    padding: 10px;
+    display: block;
+    cursor: pointer;
+}
+
+.fine {
+font-weight: bold;
+}
