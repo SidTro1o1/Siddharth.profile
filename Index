@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Homepage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+        <div class="profile-picture">
+            <img src="profile_logo.png"  id="top" alt="Profile Picture">
+        </div>
+        <div class="personal-details">
+            <h1>Siddharth Tripathi</h1>
+            <p>Department:IPM04 Student<br>CFA L2 Cleared | Coordinator, Literati - IPM Literature Club | Cofounder @ Casebuzz 🚀 | 150K+ Content Views | IPMAT - AIR 100 | IIM-Rohtak '25 - IPM |</p>
+            <p>Postal Address: Room- 101-C, Dorm 13, Indian Institute of Management Rohtak, Near Sunaria Jail, Rohtak, Haryana<br> 	       Pincode-124010</p>
+            <p>Institute: <a href="https://www.google.com/maps/place/Indian+Institute+Of+Management%E2%80%93Rohtak+(IIM%E2%80%93Rohtak)/@28.8531935,76.5421906,15z/data=!4m6!3m5!1s0x390d84ddac3da907:0x79ac48492e89ec85!8m2!3d28.8531935!4d76.5421906!16s%2Fm%2F0cm80yv?entry=ttu">Google Maps Link to Institute</a></p>
+            <p><a href="ipm04siddhartht@iimrohtak.ac.in">Email: ipm04siddhartht@iimrohtak.ac.in </p></a>
+
+        </div>
+  
+	<header>
+        <ul class="nav-list">
+            <li><a href="#education"><button class="nav-button">Education</button></li></a>
+            <li><a href="#experience"><button class="nav-button">Experience</button></li></a>
+            <li><a href="#projects"><button class="nav-button">Projects</button></li></a>
+            <li><a href="#gallery"><button class="nav-button">Gallery</button></li></a>
+            <li><a href="#contact"><button class="nav-button">Contact</button></li></a>
+        </ul></header>
+
+
+    <div id="education">
+        </div>
+
+    
+
+<h1 class="abcd" id="education">Education</h1>
+<table>
+	<tr>
+	<th>Year</th>
+	<th>Qualification</th>
+	<th>Institute</th>
+	<th>Board</th>
+	</tr>
+	<tr>
+	<td>2024</td>
+	<td>CFA L2 Cleared</td>
+	<td>CFA Institute</td>
+	<td style="text-align:center;">-</td>
+	</tr>
+	<tr>
+	<td>2022-25</td>
+	<td>BBA</td>
+	<td>IIM Rohtak</td>
+	<td>IIMR</td>
+	</tr>
+	<tr>
+	<td>2020-21</td>
+	<td>12th grade</td>
+	<td>Mangalam Vidya Niketan</td>
+	<td>ICSE</td>
+	</tr>
+	<tr>
+	<td>2018-19</td>
+	<td>10th grade</td>
+	<td>Mangalam Vidya Niketan</td>
+	<td>ICSE</td>
+	</tr>
+</table>
+<div id="experience">
+        </div>
+<h1 class="abcd" id="experience">Experience</h1>
+<table>
+	<tr>
+	<th>Organisation</th>
+	<th>Role</th>
+	<th>Duration</th>
+	</tr>
+	<tr>
+	<td>The Literati</td>
+	<td>Coordinator</td>
+	<td>March 2023 - Present</td>
+	</tr>
+	<tr>
+	<td>CaseBuzz</td>
+	<td>Cofounder</td>
+	<td>Dec 23 - Present</td>
+	</tr>
+	<tr>
+	<td>S&P Realty</td>
+	<td>Marketing Intern </td>
+	<td>Jan 24 - Mar 24</td>
+	</tr>
+	<tr>
+	<td>CRY</td>
+	<td>Project Intern</td>
+	<td>Apr 23 - Jun 23</td>
+	</tr>
+</table>
+<h1 class="abcd" id="projects">Project</h1>
+
+<h4 class="bye">IndusInd Bank - 10 Year Financial Performance Research Report</h4>
+<p class="hello"><a href="https://drive.google.com/file/d/1tMRT3cy7TixNppKfvctrDJw4hGcJ14i3/view?usp=sharing" target="_blank">Report Link</a><br>Conducted a comprehensive ratio analysis of IndusInd Bank as part of an academic project with my group for a Bank Management course, revealing insights into its financial landscape. Showcased expertise in evaluating effective credit risk management, noting a reduction in net NPAs and a notable provision coverage ratio, reflecting a proactive approach to risk mitigation. Highlighted the bank's operational excellence by analyzing improvements in net interest margins and core fee income, demonstrating a keen understanding of operational dynamics in the banking sector. Demonstrated proficiency in extracting actionable insights from intricate financial data, showcasing expertise in financial analysis within the banking sector.</p><br>
+
+<h4 class="bye">EY CAFTA Case Championship 2023</h4>
+<p class="hello"><a href="https://drive.google.com/file/d/1bGip4uCoIwczpdoOjvaKIK3t5aPap64p/view?usp=sharing" target="_blank">Report Link</a><br>The research report, "Navigating Global Financial Markets Amidst COVID-19," comprehensively examines market volatilities, comparative studies, regulatory changes, and risk management strategies in the wake of the pandemic. We delved into the nuanced impact on capital, commodity, and FX markets, highlighting regional disparities and responses. Our findings underscore the significance of regulatory adaptations and effective risk management in mitigating disruptions. With detailed future projections and an Excel dashboard housing country-specific policies, our report offers stakeholders invaluable insights for strategic planning in this evolving financial landscape.</p><br>
+
+<h4 class="bye">Nestlé India 1QCY23 Equity Research Report</h4>
+<p class="hello"><a href="https://drive.google.com/file/d/19xSZXNMdCHuXlauawK36njnBGMqOr_iZ/view?usp=sharing" target="_blank">Report Link</a><br>This equity research report provides a thorough analysis of Nestlé's first-quarter financial and operational performance in 2023. The report covers key business segments, revenue and earnings breakdowns, and the competitive landscape, as well as growth prospects and potential risks. This report is for educational purposes only and is based on rigorous research methodology, drawing on financial statements, industry reports, and expert analysis. It offers valuable insights for investors and industry professionals looking to stay informed on Nestlé's current state and future prospects.</p>
+
+
+<h1 class="abcd" id="gallery">Gallery</h1>
+<div id="gallery">
+        <div class="logo-container">
+            <a href="https://www.iimrohtak.ac.in/" target="_blank">
+                <img src="IIMR_logo.png" alt="IIM Rohtak Logo" class="logo">
+            </a>
+	 <a href="https://www.cfainstitute.org/" target="_blank">
+                <img src="CFA_logo.png" alt="CFA Logo" class="logo">
+            </a>
+            <a href="https://www.casebuzz.in/" target="_blank">
+                <img src="casebuzz_logo.jpg" alt="Casebuzz" class="logo">
+            </a>
+            <a href="https://cry.org/" target="_blank">
+                <img src="cry_logo.jpg" alt="CRY" class="logo">
+            </a>
+            <a href="https://www.instagram.com/theliterati.iimr?igsh=MXZkczhlNHNrYmMzZw==" target="_blank">
+                <img src="literati_logo.png" alt="literati" class="logo">
+            </a>
+            <a href="https://in.linkedin.com/company/sp-realtor" target="_blank">
+                <img src="sp_realtor_logo.jpg" alt="S&P Realty" class="logo">
+            </a>
+            <a href="https://www.mangalamvidyaniketan.in/" target="_blank">
+                <img src="MVN_logo.jpeg" alt="MVN School" class="logo">
+            </a>
+           
+
+            </div>
+    </div>
+<h1 class="abcd" id="contact">Contact</h1>
+
+		<form id="contactForm">
+			<label for="name" class="fine">Name:*</label>
+			<input type="text" id="name" name="name" required> <br>
+
+			<label for="email" class="fine">Email:*</label>
+			<input type="email" id="email" name="email" required><br>
+
+			<label for="phone" class="fine">Phone Number:*</label>
+			<input type="tel" id="phone" name="phone" required placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"><br>
+
+			<label for="gender" class="fine">Gender:</label>
+ 			<input type="radio" id="gender" name="gender" value="Male">
+			<label for="gender">Male</label>
+ 			<input type="radio" id="gender" name="gender" value="Female">
+ 			<label for="gender">Female</label><br>
+
+
+
+			<label for="messageType" class="fine">MessageType:</label>
+			<input type="checkbox" id="messageType" name="academic" value="Academic">
+			<label for="academic">Academic</label>
+			<input type="checkbox" id="messageType" name="advisory" value="Advisory">
+			<label for="advisory">Advisory</label>
+			<input type="checkbox" id="messageType" name="research" value="Research">
+			<label for="research">Research</label><br>
+
+
+			<label for="message" ></label>
+			<textarea id="message" name="message" required placeholder="Please write your message here"></textarea><br>
+
+<p>*Indicates Mandatory Fields</p>
+
+
+		<input type="submit" value="Submit">
+		<input type="reset" value="Reset">
+        </form>
+    </div> <br>
+<button class="nice"><a href="#top" class="nice">Jump to Top</a></button>
+
+</body>
+</html>
